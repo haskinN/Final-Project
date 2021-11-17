@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    text-align: center;
+}
+footer{
+    background-color: orange;
+    padding: 2em;
+    text-align:center;
+}
+.align{
+    display:inline-block;
+}
+.store{
+    background-color:white;
+    border: none;
+    display:inline-block;
+    font-size:larger;
+}
+.store:hover{
+    color:red;
+}
+.title
+{
+    background-color: black;
+    color: white;
+    border: orange solid 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1em;
+    margin-top: 0%;
+    text-align: center;
+}
+#canvas1
+{
+    border: black solid 2px;
+}
+
+
